@@ -14,3 +14,5 @@
 ---
 
 ⭐️ *"I learn by trying, experimenting, and building."*
+
+![snake gif](https://github.com/ItsK4tune/ItsK4tune/blob/output/github-snake-dark.svg)
