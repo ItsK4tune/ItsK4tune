@@ -60,35 +60,6 @@ Game Developer • Backend Engineer • Tech Explorer
 
 <hr/>
 
-<h2>🛠 Tech Stack</h2>
-
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>C++, TypeScript, JavaScript</td>
-  </tr>
-  <tr>
-    <td><b>Game Dev</b></td>
-    <td>OpenGL, GLSL, Custom C++ Engine</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>NestJS, Kafka, Redis, MySQL</td>
-  </tr>
-  <tr>
-    <td><b>Web</b></td>
-    <td>React, REST API, WebSocket</td>
-  </tr>
-  <tr>
-    <td><b>Tools</b></td>
-    <td>Git, Docker, CMake, Linux</td>
-  </tr>
-</table>
-
-<hr/>
-
-<hr/>
-
 <h2>🏆 Highlights</h2>
 
 <ul>
@@ -110,7 +81,7 @@ facebook.com/caftun.nd
 <hr/>
 
 <p align="center" style="color:#8b949e; font-family: monospace;">
-⭐️ I learn by trying, experimenting, and building.
+⭐️ It’s not about how you start — it’s about what you build in the end.
 </p>
 
 <div align="center">
