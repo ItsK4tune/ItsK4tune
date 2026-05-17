@@ -76,6 +76,10 @@ Game Developer • Backend Engineer • Tech Explorer
 <a href="https://www.facebook.com/caftun.nd" target="_blank">
 facebook.com/caftun.nd
 </a>
+🌐 Email: 
+<a href="mailto:caftun.nd@gmail.com">
+caftun.nd@gmail.com
+</a>
 </p>
 
 <hr/>
